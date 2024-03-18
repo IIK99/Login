@@ -1,0 +1,68 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Uci",
+      "email": "uci@gmail.com",
+      "password": "123uci"
+    },
+    {
+      "name": "PUT = untuk meriplace seluruh data, PATCH = edit data",
+      "id": 2
+    },
+    {
+      "name": "Ocii",
+      "email": "oci@gmail.com",
+      "password": "Ocia",
+      "id": 3
+    },
+    {
+      "name": "Oca",
+      "email": "oca@gmail.com",
+      "password": "oca",
+      "id": 4
+    },
+    {
+      "name": "iik",
+      "email": "ik@mail.com",
+      "password": "aka",
+      "id": 5
+    },
+    {
+      "name": "Oca",
+      "email": "oca@gmail.com",
+      "password": "Oca",
+      "id": 6
+    },
+    {
+      "name": "ajak",
+      "email": "jak@mail.com",
+      "password": "jaka",
+      "id": 7
+    },
+    {
+      "name": "mal",
+      "email": "mal@mail.com",
+      "password": "mal",
+      "id": 8
+    },
+    {
+      "name": "Oca",
+      "email": "oca@gmail.com",
+      "password": "Oca",
+      "id": 9
+    },
+    {
+      "name": "Oca",
+      "email": "oca@gmail.com",
+      "password": "Oca",
+      "id": 11
+    },
+    {
+      "name": "ikmal",
+      "email": "udin@mail.com",
+      "password": "123456",
+      "id": 12
+    }
+  ]
+}
